@@ -7,17 +7,26 @@
 }
 
 .data{
-margin: 7% 35%;
-}
+  margin: 10% 25%;
+ }
 
 img{
   display: block;
+  width: 48vw;
+  height: 50vh;
 }
 
+
 button{
-width: 35.6vw;
+display: block;
+width: 48vw;
 height: 10vh;
 background: linear-gradient(90deg , rgb(199, 157, 79) , rgb(245, 243, 243) , rgb(192, 82, 173));
 border: none;
+cursor: pointer;
+}
 
+span{
+  display: block;
+  font-size: 6vh;
 }
